@@ -6,8 +6,6 @@ use Illuminate\Http\Request;
 use App\test;
 use Illuminate\Support\Facades\Crypt;
 use Illuminate\Support\Facades\Mail;
-use Google_Client;
-use Google_Service_Gmail;
 
 class IndexController extends Controller
 {
